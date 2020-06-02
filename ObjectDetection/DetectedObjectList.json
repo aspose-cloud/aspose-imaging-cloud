@@ -1,0 +1,24 @@
+{
+    "detectedObjects": [
+        {
+            "score": 0.599537253,
+            "label": "cat",
+            "bounds": {
+                "x": 33.0,
+                "y": -1.0,
+                "width": 510.0,
+                "height": 352.0
+            }
+        },
+        {
+            "score": 0.66614604,
+            "label": "dog",
+            "bounds": {
+                "x": 37.0,
+                "y": 3.0,
+                "width": 493.0,
+                "height": 344.0
+            }
+        }
+    ]
+}
